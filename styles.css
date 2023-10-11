@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    background-color: #333;
+  background-color:rgb(49, 113, 252)
     color: #fff;
     text-align: center;
-    padding: 20px 0;
+   padding: 20px;
 }
 
 header img {
-    width: 100px; /* Ajuste o tamanho da imagem do logo conforme necessário */
+    width: 100px;
     height: auto;
 }
 
@@ -29,7 +29,7 @@ h2 {
 nav ul {
     list-style: none;
     padding: 0;
-    background-color: #333;
+    background-color: #2794ec;
 }
 
 nav ul li {
